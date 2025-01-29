@@ -6,12 +6,12 @@
 
 此脚本版本已废弃，不再添加任何功能，也不修复任何问题。
 
-请使用：https://github.com/233boy/v2ray/tree/master
+请使用：https://github.com/lbhaov/v2ray/tree/master
 
 除非你有特殊需求，要不然请尽量不要使用此版本。
 
 ## 安装
 
 ```bash
-wget https://github.com/233boy/v2ray/archive/old.tar.gz -O v2ray-old.tar.gz;tar -zxvf v2ray-old.tar.gz;cd v2ray-old;chmod +x i*;./i* local
+wget https://github.com/lbhaov/v2ray/archive/old.tar.gz -O v2ray-old.tar.gz;tar -zxvf v2ray-old.tar.gz;cd v2ray-old;chmod +x i*;./i* local
 ```
